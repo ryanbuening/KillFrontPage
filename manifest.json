@@ -1,6 +1,6 @@
 {
   "name": "Kill Reddit Front Page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Makes you more productive by getting rid of Reddit's front page and all. Heavily inspired (copied) from Neal Wu's Kill News Feed",
   "content_scripts": [{
       "matches": ["*://*.reddit.com/r/all/*","*://*.reddit.com/hot/*","*://*.reddit.com/new/*","*://*.reddit.com/top/*","*://*.reddit.com/rising/*","*://*.reddit.com/controversial/*","*://*.reddit.com/gilded/*","*://*.reddit.com/"],
