@@ -1,0 +1,1 @@
+Very simple extension that only blocks Reddit front page and /r/all.
